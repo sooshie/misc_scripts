@@ -1,0 +1,6 @@
+A simple script to anonymize various fields in Bro (bro.org) logs based on the field type.
+
+The anonymization is probably reversible in some circumstances so it's not "great", but it's 
+good enough.
+
+Read the license file.
